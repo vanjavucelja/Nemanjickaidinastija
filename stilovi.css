@@ -1,0 +1,40 @@
+h1{  
+    font-size: 36; text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; } 
+h2{ 
+     border-radius: 5; 
+     border-top: 5;
+      font-family: 'Times New Roman', Times, serif; } 
+body{ 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold; 
+      background-color: rgb(238, 227, 73);}
+nav{
+    float: left;
+    width: 20%;
+    background-color: rgb(238, 227, 73);
+    height: 822px;
+}
+section{padding: 10px;
+    margin-left: 20%;
+    width: 80%;
+    
+    background-color: rgb(241, 213, 88);
+
+}
+footer{ padding: 10px;
+    float: left;
+    width: 100%;
+    text-align: center;
+    
+    background-color: rgb(235, 173, 42);
+    
+}
+
+header{padding: 10px;
+    text-align: center;
+    background-color: rgb(235, 173, 42);
+    width: 100%;
+   
+
+}
